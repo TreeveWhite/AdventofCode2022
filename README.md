@@ -1,2 +1,5 @@
-# AdventofCode2022
-Advent Of Code 2022
+# Advent of Code 2022
+
+Daily Advent of Code Challenges
+
+https://adventofcode.com/2022/
