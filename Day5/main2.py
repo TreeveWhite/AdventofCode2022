@@ -1,9 +1,9 @@
 import re
 
-def format_crates(lines, num_crates=9):
+def format_crates(lines):
     resp = []
 
-    for i in range(num_crates):
+    for i in range(len(lines[0][1::4])):
         resp.append([])
     
     for line in lines:
