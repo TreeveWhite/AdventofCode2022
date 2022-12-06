@@ -42,7 +42,7 @@ def print_crates(crates):
 
 def main():
     
-    with open("instructions.txt", "r") as file:
+    with open("data.txt", "r") as file:
         data = file.readlines()
 
     crates_data = format_crates(data[:8])
