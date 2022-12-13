@@ -13,7 +13,6 @@ def format_crates(lines):
                 resp[i].append(char)
             i += 1
         
-
     return resp
 
 def format_instructions(lines):
